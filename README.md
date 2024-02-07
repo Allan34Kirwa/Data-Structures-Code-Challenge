@@ -1,0 +1,1 @@
+This repository contains functions to manage farm vehicles. Users can create new tractor instances and add them to a list of vehicles. Functions are provided to assist in handling farm vehicle data efficiently.
